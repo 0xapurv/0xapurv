@@ -48,7 +48,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=believeInJha&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/believeInJha">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=believeInJha&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=believeInJha&show_icons=true&theme=dracula&line_height=27" alt="Apurv's github stats"/>
 </a>
 
 ### Show some ❤️ by starring some of the repositories!
