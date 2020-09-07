@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋  ![](https://komarev.com/ghpvc/?username=believeInJha)
+
 
 <a href="https://twitter.com/believeInJha">
   <img align="left" alt="Apurv's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
