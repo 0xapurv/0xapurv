@@ -25,7 +25,7 @@
 
 <br/>
 <br/>
-[![Stack Overflow](https://img.shields.io/badge/Himanshu_Sharma-393939?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12592105/apurv-jha)
+<a href="https://stackexchange.com/users/17379563/apurv-jha"><img src="https://stackexchange.com/users/flair/15998609.png?theme=dark" width="208" height="58" alt="profile for Apurv Jha on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Himanshu Sharma on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 
 - 🔭 I’m currently working on Batwa.
