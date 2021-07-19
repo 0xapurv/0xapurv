@@ -53,6 +53,11 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=believeInJha&show_icons=true&theme=dracula&line_height=27" alt="Apurv's github stats"/>
 </a>
 
+
+![snake gif](https://github.com/believeInJha/believeInJha/blob/output/github-contribution-grid-snake.gif)
+
 ### Show some ❤️ by starring some of the repositories!
+
+
 
 </div>
