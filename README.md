@@ -52,9 +52,10 @@
 <a href="https://github.com/believeInJha">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=believeInJha&show_icons=true&theme=dracula&line_height=27" alt="Apurv's github stats"/>
 </a>
+###    Watch my contribution graph get eaten by the snake 🐍
 
-
-![snake gif](https://github.com/believeInJha/believeInJha/blob/output/github-contribution-grid-snake.gif)
+<!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
+![believeInJha snake gif](https://github.com/believeInJha/believeInJha/blob/output/github-contribution-grid-snake.svg)   
 
 ### Show some ❤️ by starring some of the repositories!
 
