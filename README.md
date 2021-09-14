@@ -4,7 +4,7 @@
 <a href="https://twitter.com/believeInJha">
   <img align="left" alt="Apurv's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/apurv-j-17aa19137">
+<a href="https://https://www.linkedin.com/in/apurv-jha/">
   <img align="left" alt="Apurv's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/believeInJha">
@@ -26,16 +26,8 @@
 <br/>
 <br/>
 <a href="https://stackexchange.com/users/17379563/apurv-jha"><img src="https://stackexchange.com/users/flair/17379563.png?theme=dark" width="208" height="58" alt="profile for Apurv Jha on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Aourv Jha on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-
-
-- 🔭 I’m currently working on my Competitive Coding skills.
-- 🌱 I’m currently learning Algorithms.
-- 👯 I’m looking to collaborate on LinkedIn.
-- 🤔 I’m looking for help with Animations.
-- 💬 Ask me about Flutter and Dart.
-- 📫 How to reach me:  LinkedIn - [@ApurvJha](https://www.linkedin.com/in/apurv-jha/)   Twitter - [@believeInJha](https://twitter.com/believeInJha) 
-- 😄 Pronouns: He/His.
-- ⚡ Fun fact: Wubba Lubba Dub Dub!
+<br>
+<br>
 
 **Languages and Tools:**  
 
@@ -45,6 +37,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=believeInJha&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/akshay2211&hide_border=true)
+
 
 <br/>
 <p align="left">
