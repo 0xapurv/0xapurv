@@ -46,12 +46,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-<a href="https://github.com/believeInJha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=believeInJha&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/believeInJha">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=believeInJha&show_icons=true&theme=dracula&line_height=27" alt="Apurv's github stats"/>
-</a>
+<br/>
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=believeInJha&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
+    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=believeInJha&theme=prussian&hide_border=true" />
+</p>
+<br>
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
