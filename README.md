@@ -1,27 +1,16 @@
-## Hi there 👋  ![](https://komarev.com/ghpvc/?username=believeInJha)
+![](https://komarev.com/ghpvc/?username=believeInJha)
 
+<h2 align="center">My name is Apurv Jha. 👋</h2>
 
-<a href="https://twitter.com/believeInJha">
-  <img align="left" alt="Apurv's Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://https://www.linkedin.com/in/apurv-jha/">
-  <img align="left" alt="Apurv's Linkdein" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/believeInJha">
-  <img align="left" alt="Apurv's Github" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/believeInJha">
-  <img align="left" alt="Apurv's Telegram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/apurv.18/">
-  <img align="left" alt="Apurv's Instagram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/apurv.jha.108/">
-  <img align="left" alt="Apurv's Facebook" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCw6dZDodyCBau4Haw4Bxpng?guided_help_flow=3">
-  <img align="left" alt="Apurv's Youtube" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+<p align='center'>
+<a href="https://twitter.com/believeInJha"><img height="30" src="icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/apurv-jha/"><img height="30" src="icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://hashnode.com/@believeInJha"><img height="30" src="icons/hashnode.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/apurv.18/"><img height="30" src="icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/believeInJha"><img height="30" src="icons/by-me-a-coffee.png?raw=true"></a>&nbsp;&nbsp;
+
+</p>
+<p align='center'>
 <a href="https://stackexchange.com/users/17379563/apurv-jha"><img src="https://stackexchange.com/users/flair/17379563.png?theme=dark" width="208" height="58" alt="profile for Apurv Jha on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Aourv Jha on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 
