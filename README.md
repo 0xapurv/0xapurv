@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=believeInJha)
 
-<h2 align="center">My name is Apurv Jha. 👋</h2>
+<h2 align="center">My name is Apurv Jha 👋</h2>
 
 <p align='center'>
 <a href="https://twitter.com/believeInJha"><img height="30" src="icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
