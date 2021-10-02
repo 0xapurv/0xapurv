@@ -13,9 +13,8 @@
 <p align='center'>
 <a href="https://stackexchange.com/users/17379563/apurv-jha"><img src="https://stackexchange.com/users/flair/17379563.png?theme=dark" width="208" height="58" alt="profile for Apurv Jha on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Aourv Jha on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
-
-## Languages and Tools: 
-
+<h2 align="center">Languages and Tools:</h2>
+<p align='center'>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
