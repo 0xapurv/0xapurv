@@ -35,12 +35,13 @@
 </p>
 <br>
 
-## Watch my contribution graph get eaten by the snake 🐍
+<h2 align="center">Watch my contribution graph get eaten by the snake 🐍</h2>
+ 
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 ![believeInJha snake gif](https://github.com/believeInJha/believeInJha/blob/output/github-contribution-grid-snake.svg)   
 
-### Show some ❤️ by starring some of the repositories!
+<h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
 
 
 
