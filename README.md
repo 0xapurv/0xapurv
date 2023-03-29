@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=0xapurv)
-
 <h2 align="center">My name is Apurv Jha 👋</h2>
 
 <p align='center'>
