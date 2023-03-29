@@ -1,9 +1,9 @@
-![](https://komarev.com/ghpvc/?username=believeInJha)
+![](https://komarev.com/ghpvc/?username=0xapurv)
 
 <h2 align="center">My name is Apurv Jha 👋</h2>
 
 <p align='center'>
-<a href="https://twitter.com/believeInJha"><img height="40" src="icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/0xapurv"><img height="40" src="icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/apurv-jha/"><img height="40" src="icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://hashnode.com/@believeInJha"><img height="40" src="icons/hashnode.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/apurv.18/"><img height="40" src="icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
@@ -25,13 +25,13 @@
 
 <br/>
 
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=believeInJha&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/akshay2211&hide_border=true)
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=0xapurv&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/akshay2211&hide_border=true)
 
 
 <br/>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=believeInJha&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
-    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=believeInJha&theme=prussian&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=0xapurv&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
+    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=0xapurv&theme=prussian&hide_border=true" />
 </p>
 <br>
 
@@ -39,7 +39,7 @@
  
 
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-![believeInJha snake gif](https://github.com/believeInJha/believeInJha/blob/output/github-contribution-grid-snake.svg)   
+![0xapurv snake gif](https://github.com/0xapurv/0xapurv/blob/output/github-contribution-grid-snake.svg)   
 
 <h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
 
