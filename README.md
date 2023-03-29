@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/apurv-jha/"><img height="40" src="icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://hashnode.com/@believeInJha"><img height="40" src="icons/hashnode.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/0xapurv/"><img height="40" src="icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/believeInJha"><img height="40" src="icons/by-me-a-coffee.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/0xapurv"><img height="40" src="icons/by-me-a-coffee.png?raw=true"></a>&nbsp;&nbsp;
 
 </p>
 <p align='center'>
